@@ -1,5 +1,5 @@
 
-### Ola! Eu sou a Ana Luiza 🖐️
+### Olá! Eu sou a Ana Luiza 🖐️
 
 [![Linkdlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/analuizafagundesrodrigues/)
@@ -10,6 +10,6 @@
 
 ![Ana Luiza GitHub stats](https://github-readme-stats.vercel.app/api?username=analuizafagunr&show_icons=true&theme=onedark)
 
-Apaixonada por tecnologia, você pode ser o que quiser.
+Apaixonada por tecnologia, você pode ser o que quiser.💡
 
 
